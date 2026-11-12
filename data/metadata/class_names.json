@@ -1,0 +1,394 @@
+[
+  {
+    "id": 0,
+    "key": "all_motor_vehicle_prohibited",
+    "display_name": "All Motor Vehicle Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 65
+  },
+  {
+    "id": 1,
+    "key": "axle_load_limit",
+    "display_name": "Axle Load Limit",
+    "category": "Mandatory / Regulatory",
+    "original_count": 60
+  },
+  {
+    "id": 2,
+    "key": "compulsary_ahead",
+    "display_name": "Compulsory Ahead",
+    "category": "Mandatory / Regulatory",
+    "original_count": 61
+  },
+  {
+    "id": 3,
+    "key": "compulsary_keep_left",
+    "display_name": "Compulsory Keep Left",
+    "category": "Mandatory / Regulatory",
+    "original_count": 66
+  },
+  {
+    "id": 4,
+    "key": "compulsary_keep_right",
+    "display_name": "Compulsory Keep Right",
+    "category": "Mandatory / Regulatory",
+    "original_count": 62
+  },
+  {
+    "id": 5,
+    "key": "compulsary_turn_left_ahead",
+    "display_name": "Compulsory Turn Left Ahead",
+    "category": "Mandatory / Regulatory",
+    "original_count": 60
+  },
+  {
+    "id": 6,
+    "key": "compulsary_turn_right_ahead",
+    "display_name": "Compulsory Turn Right Ahead",
+    "category": "Mandatory / Regulatory",
+    "original_count": 59
+  },
+  {
+    "id": 7,
+    "key": "cross_road",
+    "display_name": "Cross Road",
+    "category": "Cautionary / Warning",
+    "original_count": 69
+  },
+  {
+    "id": 8,
+    "key": "dangerous_dip",
+    "display_name": "Dangerous Dip",
+    "category": "Cautionary / Warning",
+    "original_count": 43
+  },
+  {
+    "id": 9,
+    "key": "falling_rocks",
+    "display_name": "Falling Rocks",
+    "category": "Cautionary / Warning",
+    "original_count": 67
+  },
+  {
+    "id": 10,
+    "key": "gap_in_median",
+    "display_name": "Gap In Median",
+    "category": "Cautionary / Warning",
+    "original_count": 54
+  },
+  {
+    "id": 11,
+    "key": "give_way",
+    "display_name": "Give Way",
+    "category": "Mandatory / Regulatory",
+    "original_count": 70
+  },
+  {
+    "id": 12,
+    "key": "guarded_level_crossing",
+    "display_name": "Guarded Level Crossing",
+    "category": "Cautionary / Warning",
+    "original_count": 53
+  },
+  {
+    "id": 13,
+    "key": "height_limit",
+    "display_name": "Height Limit",
+    "category": "Mandatory / Regulatory",
+    "original_count": 56
+  },
+  {
+    "id": 14,
+    "key": "horn_prohibited",
+    "display_name": "Horn Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 67
+  },
+  {
+    "id": 15,
+    "key": "hospital_ahead",
+    "display_name": "Hospital Ahead",
+    "category": "Informatory",
+    "original_count": 57
+  },
+  {
+    "id": 16,
+    "key": "hump_or_rough_road",
+    "display_name": "Hump Or Rough Road",
+    "category": "Cautionary / Warning",
+    "original_count": 68
+  },
+  {
+    "id": 17,
+    "key": "left_hand_curve",
+    "display_name": "Left Hand Curve",
+    "category": "Cautionary / Warning",
+    "original_count": 67
+  },
+  {
+    "id": 18,
+    "key": "left_reverse_bend",
+    "display_name": "Left Reverse Bend",
+    "category": "Cautionary / Warning",
+    "original_count": 59
+  },
+  {
+    "id": 19,
+    "key": "left_turn_prohibited",
+    "display_name": "Left Turn Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 49
+  },
+  {
+    "id": 20,
+    "key": "loose_gravel",
+    "display_name": "Loose Gravel",
+    "category": "Cautionary / Warning",
+    "original_count": 50
+  },
+  {
+    "id": 21,
+    "key": "men_at_work",
+    "display_name": "Men At Work",
+    "category": "Cautionary / Warning",
+    "original_count": 70
+  },
+  {
+    "id": 22,
+    "key": "narrow_bridge_ahead",
+    "display_name": "Narrow Bridge Ahead",
+    "category": "Cautionary / Warning",
+    "original_count": 72
+  },
+  {
+    "id": 23,
+    "key": "narrow_road_ahead",
+    "display_name": "Narrow Road Ahead",
+    "category": "Cautionary / Warning",
+    "original_count": 57
+  },
+  {
+    "id": 24,
+    "key": "no_entry",
+    "display_name": "No Entry",
+    "category": "Mandatory / Regulatory",
+    "original_count": 69
+  },
+  {
+    "id": 25,
+    "key": "no_parking",
+    "display_name": "No Parking",
+    "category": "Mandatory / Regulatory",
+    "original_count": 73
+  },
+  {
+    "id": 26,
+    "key": "no_stopping_or_standing",
+    "display_name": "No Stopping Or Standing",
+    "category": "Mandatory / Regulatory",
+    "original_count": 56
+  },
+  {
+    "id": 27,
+    "key": "overtaking_prohibited",
+    "display_name": "Overtaking Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 59
+  },
+  {
+    "id": 28,
+    "key": "pass_either_side",
+    "display_name": "Pass Either Side",
+    "category": "Mandatory / Regulatory",
+    "original_count": 60
+  },
+  {
+    "id": 29,
+    "key": "pedestrian_crossing",
+    "display_name": "Pedestrian Crossing",
+    "category": "Cautionary / Warning",
+    "original_count": 69
+  },
+  {
+    "id": 30,
+    "key": "petrol_pump_ahead",
+    "display_name": "Petrol Pump Ahead",
+    "category": "Informatory",
+    "original_count": 49
+  },
+  {
+    "id": 31,
+    "key": "quay_side_or_river_bank",
+    "display_name": "Quay Side Or River Bank",
+    "category": "Cautionary / Warning",
+    "original_count": 66
+  },
+  {
+    "id": 32,
+    "key": "restriction_ends",
+    "display_name": "Restriction Ends",
+    "category": "Mandatory / Regulatory",
+    "original_count": 66
+  },
+  {
+    "id": 33,
+    "key": "right_hand_curve",
+    "display_name": "Right Hand Curve",
+    "category": "Cautionary / Warning",
+    "original_count": 66
+  },
+  {
+    "id": 34,
+    "key": "right_reverse_bend",
+    "display_name": "Right Reverse Bend",
+    "category": "Cautionary / Warning",
+    "original_count": 56
+  },
+  {
+    "id": 35,
+    "key": "right_turn_prohibited",
+    "display_name": "Right Turn Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 58
+  },
+  {
+    "id": 36,
+    "key": "road_widens_ahead",
+    "display_name": "Road Widens Ahead",
+    "category": "Cautionary / Warning",
+    "original_count": 39
+  },
+  {
+    "id": 37,
+    "key": "roundabout",
+    "display_name": "Roundabout",
+    "category": "Cautionary / Warning",
+    "original_count": 61
+  },
+  {
+    "id": 38,
+    "key": "school_ahead",
+    "display_name": "School Ahead",
+    "category": "Cautionary / Warning",
+    "original_count": 68
+  },
+  {
+    "id": 39,
+    "key": "side_road_left",
+    "display_name": "Side Road Left",
+    "category": "Cautionary / Warning",
+    "original_count": 55
+  },
+  {
+    "id": 40,
+    "key": "side_road_right",
+    "display_name": "Side Road Right",
+    "category": "Cautionary / Warning",
+    "original_count": 42
+  },
+  {
+    "id": 41,
+    "key": "slippery_road",
+    "display_name": "Slippery Road",
+    "category": "Cautionary / Warning",
+    "original_count": 63
+  },
+  {
+    "id": 42,
+    "key": "speed_limit_100",
+    "display_name": "Speed Limit 100",
+    "category": "Mandatory / Regulatory",
+    "original_count": 59
+  },
+  {
+    "id": 43,
+    "key": "speed_limit_30",
+    "display_name": "Speed Limit 30",
+    "category": "Mandatory / Regulatory",
+    "original_count": 68
+  },
+  {
+    "id": 44,
+    "key": "speed_limit_50",
+    "display_name": "Speed Limit 50",
+    "category": "Mandatory / Regulatory",
+    "original_count": 64
+  },
+  {
+    "id": 45,
+    "key": "staggered_intersection",
+    "display_name": "Staggered Intersection",
+    "category": "Cautionary / Warning",
+    "original_count": 49
+  },
+  {
+    "id": 46,
+    "key": "steep_ascent",
+    "display_name": "Steep Ascent",
+    "category": "Cautionary / Warning",
+    "original_count": 44
+  },
+  {
+    "id": 47,
+    "key": "steep_descent",
+    "display_name": "Steep Descent",
+    "category": "Cautionary / Warning",
+    "original_count": 48
+  },
+  {
+    "id": 48,
+    "key": "stop",
+    "display_name": "Stop",
+    "category": "Mandatory / Regulatory",
+    "original_count": 72
+  },
+  {
+    "id": 49,
+    "key": "straight_prohibited",
+    "display_name": "Straight Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 22
+  },
+  {
+    "id": 50,
+    "key": "t_intersection",
+    "display_name": "T Intersection",
+    "category": "Cautionary / Warning",
+    "original_count": 46
+  },
+  {
+    "id": 51,
+    "key": "u_turn",
+    "display_name": "U Turn",
+    "category": "Informatory",
+    "original_count": 59
+  },
+  {
+    "id": 52,
+    "key": "u_turn_prohibited",
+    "display_name": "U Turn Prohibited",
+    "category": "Mandatory / Regulatory",
+    "original_count": 61
+  },
+  {
+    "id": 53,
+    "key": "unguarded_level_crossing",
+    "display_name": "Unguarded Level Crossing",
+    "category": "Cautionary / Warning",
+    "original_count": 53
+  },
+  {
+    "id": 54,
+    "key": "width_limit",
+    "display_name": "Width Limit",
+    "category": "Mandatory / Regulatory",
+    "original_count": 42
+  },
+  {
+    "id": 55,
+    "key": "y_intersection",
+    "display_name": "Y Intersection",
+    "category": "Cautionary / Warning",
+    "original_count": 54
+  }
+]

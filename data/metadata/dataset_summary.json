@@ -1,0 +1,23 @@
+{
+  "dataset_name": "Indian Traffic Signboards Dataset (IRC:67 Compliant)",
+  "source": "Roboflow Universe - Major Project vu7ji (Authentic Indian Road Captures)",
+  "license": "MIT License",
+  "total_original_images": 3277,
+  "total_classes": 56,
+  "split": {
+    "train": 2459,
+    "validation": 409,
+    "test": 409
+  },
+  "minimum_requirement_met": true,
+  "input_target_resolution": [
+    96,
+    96,
+    3
+  ],
+  "categories_breakdown": {
+    "Mandatory / Regulatory": 25,
+    "Cautionary / Warning": 28,
+    "Informatory": 3
+  }
+}
